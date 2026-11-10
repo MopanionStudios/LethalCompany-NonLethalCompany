@@ -1,7 +1,7 @@
 {
-    "name": "Non_Lethal_Company",
+    "name": "Non_Lethal_Company_v85",
     "version_number": "1.1.0",
-    "website_url": "https://github.com/TanmanG/LethalCompany-NonLethalCompany",
+    "website_url": "https://github.com/MopanionStudios/LethalCompany-NonLethalCompany",
     "description": "Removes all blood and dismemberment from the game!",
     "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
